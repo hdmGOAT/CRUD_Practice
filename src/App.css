@@ -1,0 +1,10 @@
+ul, ol {
+  margin: 0; 
+  padding-left: 40px; 
+  list-style-position: outside; 
+}
+
+ul ul, ol ol {
+  margin-top: 0;
+  padding-left: 20px; 
+}
